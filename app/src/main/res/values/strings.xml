@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="textViewAge">Age</string>
+    <string name="textViewWeight">Weight</string>
+    <string name="textViewHeight">Height</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="feet">Feet</string>
+    <string name="inches">Inches</string>
+    <string name="pounds">Pounds</string>
+    <string name="years">Years</string>
+</resources>
